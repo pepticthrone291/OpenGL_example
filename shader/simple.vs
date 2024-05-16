@@ -1,5 +1,5 @@
 #version 330 core
-layout (location = 0) in vec3 aPos;
+layout (location = 0) in vec3 aPos; // 0 번째 attribute가 정점의 위치
 
 void main()
 {
